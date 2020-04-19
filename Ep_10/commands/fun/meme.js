@@ -1,4 +1,4 @@
-const { RichEmbed } = require("discord.js");
+const { MessageEmbed } = require("discord.js");
 const randomPuppy = require("random-puppy");
 
 module.exports = {
